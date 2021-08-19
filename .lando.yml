@@ -1,0 +1,6 @@
+name: mytestdrupal9
+recipe: pantheon
+config:
+  framework: drupal8
+  site: mytestdrupal9
+  id: 20365b7f-be7b-464c-a261-b69d196b5197
